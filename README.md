@@ -3,7 +3,7 @@
 - Igra šaha za dva igralca
 - Beležijo se poteze
 - Igra na čas
-- Shranita svojo igro
+- Shrani pozicijo
 - Lahko se naloži poljubna igra
 
 ---
